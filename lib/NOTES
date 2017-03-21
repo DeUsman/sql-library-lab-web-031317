@@ -1,0 +1,10 @@
+
+SELECT * FROM artists JOIN albums ON albums.ArtisId = artists.ArtistId
+JoJOIN tracks ON 
+
+
+WE cannot use Alias "AS" variable with WHERE, that has been used for any sort of counting, for example COUNT, SUM, MIN and MAX
+
+
+
+A user
